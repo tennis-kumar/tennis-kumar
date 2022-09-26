@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/tenniskumar2" target="blank"><img src="https://img.shields.io/twitter/follow/tenniskumar2?logo=twitter&style=for-the-badge" alt="tenniskumar2" /></a> </p>
 
-- 🔭 I’m currently working on **Personal portfolio website**
+- 🔭 I’m currently working as **Data Analyst at Lenovo**
 
 - 🌱 I’m currently learning **React and MERN stack**
 
