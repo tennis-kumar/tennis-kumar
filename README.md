@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Private Cloud and Backend**
 
-- 🌱 I’m currently learning **Compose Multiplatform**
+- 🌱 I’m currently learning **Kubernetes & Terraform**
 
-- 👯 I’m looking to collaborate on **KMP, AWS**
+- 👯 I’m looking to collaborate on **AWS, Backend**
 
 - 🤝 I’m looking for help with **Private Cloud infra**
 
