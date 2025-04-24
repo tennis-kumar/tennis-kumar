@@ -65,8 +65,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tennis-kumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" height="170px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tennis-kumar&theme=tokyonight&hide_border=true&background=0D1117" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tennis-kumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" height="170px"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tennis-kumar&theme=tokyonight&hide_border=true&background=0D1117" height="170px"/>
 </div>
 
 ## 🔍 Focus Areas
