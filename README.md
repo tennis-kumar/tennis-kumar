@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/tenniskumar2" target="blank"><img src="https://img.shields.io/twitter/follow/tenniskumar2?logo=twitter&style=for-the-badge" alt="tenniskumar2" /></a> </p>
 
-- 🔭 I’m currently working on **Private Cloud and Backend**
+- 🔭 I’m currently working on **Android and Cloud Applications**
 
-- 🌱 I’m currently learning **Kubernetes & Terraform**
+- 🌱 I’m currently learning **Kotlin Multiplatform and Terraform**
 
-- 👯 I’m looking to collaborate on **AWS, Backend**
+- 👯 I’m looking to collaborate on **AWS, Backend & Android**
 
-- 🤝 I’m looking for help with **Private Cloud infra**
+- 🤝 I’m looking for help with **DevOps**
 
-- 💬 Ask me about **linux, AWS, GCP**
+- 💬 Ask me about **linux, AWS, GCP, IoT, Android**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
